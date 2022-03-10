@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="093f51cd-4126-4e54-844b-e9b4875e4e85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repo" />
+        <option name="mavenHome" value="D:/softzip/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\softzip\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26BlwQogpLgbNwnSkA6NcrqjmsY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.rabbit.postmanworkbench.util" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rabbit.postmanworkbench.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HttpClientUtilTest.doPost">
+    <configuration name="HttpClientUtilTest.doPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="postman-workbench" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbit.postmanworkbench.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rabbit.postmanworkbench.util" />
+      <option name="MAIN_CLASS_NAME" value="com.rabbit.postmanworkbench.util.HttpClientUtilTest" />
+      <option name="METHOD_NAME" value="doPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostmanWorkbenchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="postman-workbench" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbit.postmanworkbench.PostmanWorkbenchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HttpClientUtilTest.doPost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="093f51cd-4126-4e54-844b-e9b4875e4e85" name="Default Changelist" comment="" />
+      <created>1646905097369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646905097369</updated>
+      <workItem from="1646905110200" duration="1297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="137" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1646906280506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="137" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1646906280506" />
+    <state width="1481" height="197" key="GridCell.Tab.0.bottom" timestamp="1646906411432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1646906411432" />
+    <state width="1481" height="197" key="GridCell.Tab.0.center" timestamp="1646906411432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="197" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1646906411432" />
+    <state width="1481" height="197" key="GridCell.Tab.0.left" timestamp="1646906411432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="197" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1646906411432" />
+    <state width="1481" height="197" key="GridCell.Tab.0.right" timestamp="1646906411432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="197" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1646906411432" />
+    <state x="186" y="0" key="Maven.ArtifactSearchDialog" timestamp="1646905752434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="186" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1646905752434" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1646905773814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1646905773814" />
+    <state x="484" y="64" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1646906284441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="64" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1646906284441" />
+    <state x="0" y="41" key="new project wizard" timestamp="1646905638065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="41" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1646905638065" />
+  </component>
+</project>
